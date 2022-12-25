@@ -1,0 +1,7 @@
+name: InertiaTransfer
+version: '${project.version}'
+main: tkachgeek.inertiatransfer.InertiaTransfer
+api-version: 1.19
+authors: [ TkachGeek ]
+description: Transfer of inertia from transport to rider
+website: https://vk.com/cwcode
